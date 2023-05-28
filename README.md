@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishana-at
 - 👀 I’m interested in coding
-- 🌱 I’m currently doing Btech.
+- 🌱 I’m currently working as a software developer in Softius Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
